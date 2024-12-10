@@ -7,7 +7,8 @@ Nota:Este proyecto es a modo de estudio.
 
 ### Creado con
 
-Vite React js
+* [![React][React.js]][React-url]
+* [![Tailwind][Tailwind]][Tailwind-url]
 
 ### Prerequisites
 
@@ -20,7 +21,7 @@ Pasos a seguir
 
 1. Clonar el repo
    ```sh
-   git clone https://github.com/FedeHerrera10/market-web-scraping-backend
+   git clone https://github.com/FedeHerrera10/market-web-scraping-frontend
    ```
 3. Instalar NPM packages
    ```sh
@@ -28,6 +29,10 @@ Pasos a seguir
    ```
 3. Ejecutar script
    ```sh
-   node index.js
+   npm run dev 
    ```
 
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Tailwind]:https://img.shields.io/badge/tailwindcss-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]:https://https://tailwindcss.com/
